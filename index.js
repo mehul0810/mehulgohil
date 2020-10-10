@@ -4,9 +4,9 @@ const chalk = require( 'chalk' );
 
 log(
     `
-    ${chalk.bold(`------------------------------------------`)}
+    ${chalk.bold(`-------------------------------------`)}
     ${chalk.bold(`| Mehul Gohil - WordPress Developer |`)}
-    ${chalk.bold(`------------------------------------------`)}
+    ${chalk.bold(`-------------------------------------`)}
 
     ${chalk.italic(`I am a WordPress Developer having 7+ years of hands on experience. I ❤️  open-source and have contributed to many open-source projects like GiveWP, Plausible Analytics and more. Now, I believe in learning and hence moving my profile from WordPress developer to more of Full Stack Web Developer.`)}
 

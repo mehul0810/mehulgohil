@@ -1,11 +1,12 @@
 {
   "name": "mehulgohil",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Know more about Mehul Gohil. CLI with `npx mehulgohil`",
   "main": "index.js",
   "bin": {
     "mehulgohil": "index.js"
   },
+  "keywords": [ "mehul", "gohil", "mehul gohil", "wordpress", "developer" ],
   "scripts": {},
   "repository": {
     "type": "git",
